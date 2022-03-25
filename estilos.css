@@ -18,10 +18,10 @@ h1,h3{
     background-color: aqua;
 }
 .aliens{
-    background-color: brown;
+    background: no-repeat center/100% url("/imagenes/ovni.png");
 }
 .nave{
-    background-color: blueviolet;
+    background: no-repeat center/100% url("/imagenes/cohete.png");
 }
 .explosion{
     background-color: chartreuse;
